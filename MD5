@@ -1,0 +1,9 @@
+4c2576be9aed49b09a8320f7e7734169 *DESCRIPTION
+97b04846fc3befe1cbc91fd148e45bf3 *NAMESPACE
+cff0ee3738944efc93c8051cc5cb81cc *R/ata.R
+4a0bbd78879713edfc1d9df7539206b4 *R/glpk.R
+3d9f4560f4f71d947c08355b835564e5 *R/helpers.R
+5a37bf05444312a9a6df8d7ea597851d *R/lpsolve.R
+bf0820925e657700f0a4dff643176026 *R/methods.R
+428686e8ac139a390d91beb76ba3c456 *man/ata.Rd
+4f852ab8b5fced2f73cd6b1fd78bbec6 *man/helpers.Rd
